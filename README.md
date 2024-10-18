@@ -14,10 +14,6 @@
 <a href="https://t.me/waiyan_devjoker" target="_blank"><img align="center" src="https://static.cdnlogo.com/logos/t/39/telegram.svg" alt="telegram" height="30" width="40" /></a>    
 </p>
 
-<p align="left">
-<img align="center" src="https://static.cdnlogo.com/logos/t/39/telegram.svg" alt="https://www.linkedin.com/in/wai-yan-7a599a240/" height="30" width="40" /> @waiyan_devjoker
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12952/71277/icon/META-INF_pluginIcon.svg" alt="Odoo" width="40" height="40"/> </a>
