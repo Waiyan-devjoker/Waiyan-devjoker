@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" src="http://waiyan.fourleafhouse.com/four_leaf2.png" alt="." height="40" width="40"/> Hi 👋, I'm Waiyan <img align="center" src="http://waiyan.fourleafhouse.com/four_leaf2.png" alt="." height="40" width="40"/> </h1>
 <h3 align="center">A passionate odoo developer from Myanmar</h3>
 
-- 👨‍💻 All of my projects are available at [https://waiyan.fourleafhouse.com/](http://waiyan.fourleafhouse.com/)
+- 👨‍💻 All of my projects are available at [waiyan.fourleafhouse.com](https://waiyan.fourleafhouse.com/)
 
 - 💬 Ask me about **Odoo,Python**
 
